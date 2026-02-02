@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello!
 
-<!--
-**Eunicegit503/Eunicegit503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mentored the **Qualaria** hackathon project.
 
-Here are some ideas to get you started:
+🔗 **Project repository:** https://github.com/qualaria/qualaria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Role:** Mentor  
+- Technical guidance during the hackathon  
+- Helped with design and architecture decisions  
+- Provided feedback and support
+
+Thanks for visiting my GitHub!
+
